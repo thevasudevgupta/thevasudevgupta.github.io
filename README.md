@@ -1,16 +1,16 @@
-hello world!
+Hello World!
 
 I am Vasudev Gupta.
 
-I work on pre-training models at UnboxAI and lead the AI & data team. My daily job is to train & scale our [BehaviorGPT](https://unboxai.com/) model on hundreds of H100s.
+I work on pre-training models at UnboxAI and lead the AI and data team. My daily job is to train and scale our [BehaviorGPT](https://unboxai.com/) model on hundreds of H100s.
 
-I am also Google Developer Expert (GDE) in JAX.
+I am also a Google Developer Expert (GDE) in JAX.
 
 I graduated from IIT Madras with a Dual Degree (M.Tech. Data Science + B.Tech. Mechanical Engineering).
 
-I was mentor at Google Summer of Code 2022 @TensorFlow for the project titled: "Developing NLP examples using HuggingFace Transformers".
+I was a mentor at Google Summer of Code 2022 @TensorFlow for the project "Developing NLP examples using HuggingFace Transformers".
 
-I participated in Google Summer of Code 2021 and build a package for training the wav2vec2 model in TensorFlow. My work got featured in [TensorFlow blog post](https://blog.tensorflow.org/2021/09/tensorflow-hubs-experience-with-gsoc-2021.html). You can read the final report of my work [here](https://thevasudevgupta.github.io/gsoc-wav2vec2/assets/final_report).
+I participated in Google Summer of Code 2021 and built a package for training the wav2vec2 model in TensorFlow. My work was featured in [TensorFlow blog post](https://blog.tensorflow.org/2021/09/tensorflow-hubs-experience-with-gsoc-2021.html). You can read the final report of my work [here](https://thevasudevgupta.github.io/gsoc-wav2vec2/assets/final_report).
 
 I contributed BigBird (RoBERTA & Pegasus) to HuggingFace Transformers in PyTorch & JAX. I got featured in [HuggingFace's newsletter](https://huggingface.curated.co/issues/9#start) for my contributions to Transformers.
 
@@ -34,7 +34,7 @@ Open Source Contributions to HuggingFace:
 * [Added PyTorch `BigBird-Pegasus` to Transformers](https://github.com/huggingface/transformers/pull/10991)
 * [Added PyTorch `BigBird-RoBERTa` to Transformers](https://github.com/huggingface/transformers/pull/10183)
 * [Added Flax/Jax `BigBird-RoBERTa` to Transformers](https://github.com/huggingface/transformers/pull/11967)
-* [Added script for training `FlaxBigBird` on natural-questions to Transformers](https://github.com/huggingface/transformers/pull/12233)
+* [Added script for training `FlaxBigBird` on natural questions to Transformers](https://github.com/huggingface/transformers/pull/12233)
 * [Integrated `Microsoft's DeepSpeed` with Accelerate](https://github.com/huggingface/accelerate/pull/82)
 * [Added `ModelHubMixin` in Hub](https://github.com/huggingface/huggingface_hub/pull/11)
 
