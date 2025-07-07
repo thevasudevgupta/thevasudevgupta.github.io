@@ -1,0 +1,1 @@
+<style> body, html { margin: 0; padding: 0; height: 100%; } iframe { position: fixed; top: 0; left: 0; width: 100%; height: 100%; border: none; } </style> <iframe src="https://docs.google.com/document/d/1K14uesGt22U8yeskSWZYDlpDr_ypYuyu9EhiL-9HUas/preview"> </iframe>
